@@ -6,3 +6,4 @@ pillow
 easyocr
 opencv-python-headless
 numpy
+python-multipart
