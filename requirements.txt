@@ -1,2 +1,11 @@
 fastapi
 uvicorn[standard]
+gunicorn
+easyocr
+torch
+transformers
+pillow
+python-multipart
+numpy
+opencv-python-headless
+torchvision
